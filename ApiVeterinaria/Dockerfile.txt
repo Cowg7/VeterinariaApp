@@ -1,16 +1,16 @@
-﻿# Usa el SDK de .NET para compilar y publicar la API
-FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
+﻿# Usa el SDK de .NET 8.0 para compilar y publicar la API
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
 # Copia y restaura dependencias
 COPY . .
-RUN dotnet restore
+RUN dotnet restore ApiVenta.csproj
 
 # Publica la aplicación en una carpeta de salida
-RUN dotnet publish -c Release -o /out
+RUN dotnet publish ApiVenta.csproj -c Release -o /out
 
-# Usa el runtime de .NET
-FROM mcr.microsoft.com/dotnet/aspnet:7.0
+# Usa el runtime de .NET 8.0
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build-env /out .
 

@@ -3,72 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\InventarioPorMes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\InventarioPorMes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\ventasdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\ventasdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\VentasDiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\VentasDiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\petprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\petprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\PetProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\PetProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\petobservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\petobservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\CitaDeMascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\CitaDeMascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\inventariopormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\inventariopormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\CombinadosInformacionMascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\CombinadosInformacionMascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\combinadosinformacionmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\combinadosinformacionmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\PetObservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Models\\PetObservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\models\\citademascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\models\\citademascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Controllers\\PetProfilesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Controllers\\PetProfilesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Controllers\\InventarioPorMesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Controllers\\InventarioPorMesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\controllers\\petprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\controllers\\petprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariaapi\\apiveterinaria\\controllers\\inventariopormescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B83CB7-D161-4811-9492-71BCF9F093C3}|ApiVeterinaria\\ApiVenta.csproj|solutionrelative:apiveterinaria\\controllers\\inventariopormescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Controllers\\VentaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiVeterinaria\\Controllers\\VentaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\.gitignore",
               "RelativeDocumentMoniker": "ApiVeterinaria\\.gitignore",
@@ -94,12 +90,11 @@
               "RelativeToolTip": "ApiVeterinaria\\.gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-02T01:57:43.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:57:43.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\appsettings.json",
               "RelativeDocumentMoniker": "ApiVeterinaria\\appsettings.json",
@@ -111,19 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\docker-compose.yml",
-              "RelativeDocumentMoniker": "ApiVeterinaria\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\docker-compose.yml",
-              "RelativeToolTip": "ApiVeterinaria\\docker-compose.yml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-02T01:29:52.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -135,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\AppDbContext.cs",
@@ -143,24 +126,24 @@
               "RelativeToolTip": "ApiVeterinaria\\Models\\AppDbContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA1wB0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T05:54:52.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:54:52.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Dockerfile.txt",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Dockerfile.txt",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Dockerfile.txt",
               "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Dockerfile.txt",
               "RelativeToolTip": "ApiVeterinaria\\Dockerfile.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-02T01:32:26.502Z"
+              "WhenOpened": "2024-11-02T01:32:26.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "InventarioPorMes.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\InventarioPorMes.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\InventarioPorMes.cs",
@@ -172,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\Venta.cs",
@@ -184,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\Producto.cs",
@@ -196,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "VentasDiarias.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\VentasDiarias.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\VentasDiarias.cs",
@@ -220,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "CitaDeMascota.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\CitaDeMascota.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\CitaDeMascota.cs",
@@ -232,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "CombinadosInformacionMascota.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\CombinadosInformacionMascota.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\CombinadosInformacionMascota.cs",
@@ -244,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PetObservation.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Models\\PetObservation.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Models\\PetObservation.cs",
@@ -256,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "PetProfilesController.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Controllers\\PetProfilesController.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Controllers\\PetProfilesController.cs",
@@ -268,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "InventarioPorMesController.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Controllers\\InventarioPorMesController.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Controllers\\InventarioPorMesController.cs",
@@ -280,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "VentaController.cs",
               "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaApi\\ApiVeterinaria\\Controllers\\VentaController.cs",
               "RelativeDocumentMoniker": "ApiVeterinaria\\Controllers\\VentaController.cs",

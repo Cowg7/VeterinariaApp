@@ -13,8 +13,8 @@ services:
 
   api:
     build:
-      context: .
-      dockerfile: VeterinariaApi/Dockerfile
+      context: ./ApiVeterinaria
+      dockerfile: Dockerfile.txt
     ports:
       - "5000:5000"
     environment:
@@ -26,14 +26,14 @@ services:
 
   frontend:
     build:
-      context: .
-      dockerfile: VeterinariaFronted/Dockerfile
+      context: ./VeterinariaFronted
+      dockerfile: Dockerfile.txt
     ports:
       - "5001:5001"
     depends_on:
       - api
     environment:
-      - API_URL=http://api:5000/api  # URL para la comunicación con `VeterinariaApi`
+      - API_URL=http://api:5000/api  # URL para la comunicación con VeterinariaApi
     networks:
       - veterinaria-network
 
