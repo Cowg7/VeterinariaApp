@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\controllers\\petprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\controllers\\petprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\ventasdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\ventasdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\petprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\petprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\petobservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\petobservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\inventariopormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\inventariopormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\combinadosinformacionmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\combinadosinformacionmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\models\\citademascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\models\\citademascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\views\\productos\\listar productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\views\\productos\\listar productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|c:\\users\\gjosu\\desktop\\vet\\vet\\veterinariafronted\\veterinariafronted\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{400ABB51-39A8-4A63-85CA-A9C2B839AEE6}|VeterinariaFronted\\VentaFronted.csproj|solutionrelative:veterinariafronted\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\.gitignore",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\.gitignore",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\.gitignore",
+              "RelativeToolTip": "VeterinariaFronted\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T01:45:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:17:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\PetProfilesController.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Controllers\\PetProfilesController.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\PetProfilesController.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Controllers\\PetProfilesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:35:51.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:16.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\docker-compose.yml",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\docker-compose.yml",
+              "RelativeToolTip": "VeterinariaFronted\\docker-compose.yml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-02T01:23:13.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Dockerfile.txt",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Dockerfile.txt",
+              "RelativeToolTip": "VeterinariaFronted\\Dockerfile.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-02T01:34:07.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasDiarias.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\VentasDiarias.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\VentasDiarias.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\VentasDiarias.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\VentasDiarias.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:50.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventarioPorMes.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\InventarioPorMes.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\InventarioPorMes.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\InventarioPorMes.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\InventarioPorMes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:32.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\Producto.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:46.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\Venta.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:48.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:18:31.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetObservation.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\PetObservation.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\PetObservation.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\PetObservation.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\PetObservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:07:10.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PetProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\PetProfile.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\PetProfile.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\PetProfile.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\PetProfile.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:44:02.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "VeterinariaFronted\\Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T22:54:00.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CitaDeMascota.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\CitaDeMascota.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\CitaDeMascota.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\CitaDeMascota.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\CitaDeMascota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:47:07.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CombinadosInformacionMascota.cs",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\CombinadosInformacionMascota.cs",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Models\\CombinadosInformacionMascota.cs",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Models\\CombinadosInformacionMascota.cs",
+              "RelativeToolTip": "VeterinariaFronted\\Models\\CombinadosInformacionMascota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:55:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VeterinariaFronted\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T21:24:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Listar Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Views\\Productos\\Listar Productos.cshtml",
+              "RelativeDocumentMoniker": "VeterinariaFronted\\Views\\Productos\\Listar Productos.cshtml",
+              "ToolTip": "C:\\Users\\gjosu\\Desktop\\Vet\\Vet\\VeterinariaFronted\\VeterinariaFronted\\Views\\Productos\\Listar Productos.cshtml",
+              "RelativeToolTip": "VeterinariaFronted\\Views\\Productos\\Listar Productos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T21:35:36.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

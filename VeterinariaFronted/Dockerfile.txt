@@ -1,0 +1,20 @@
+﻿# Usa el SDK de .NET para compilar y publicar el frontend
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
+WORKDIR /app
+
+# Copia y restaura dependencias
+COPY . .
+RUN dotnet restore
+
+# Publica la aplicación en una carpeta de salida
+RUN dotnet publish -c Release -o /out
+
+# Usa el runtime de .NET
+FROM mcr.microsoft.com/dotnet/aspnet:7.0
+WORKDIR /app
+COPY --from=build-env /out .
+
+# Expone el puerto de la app frontend
+EXPOSE 5001
+
+ENTRYPOINT ["dotnet", "VeterinariaFronted.dll"]

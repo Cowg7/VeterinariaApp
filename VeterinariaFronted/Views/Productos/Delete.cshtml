@@ -1,0 +1,31 @@
+﻿@model Producto
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Inventario</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/VeterinariaFronted.styles.css" asp-append-version="true" />
+</head>
+
+<h1>Eliminar Producto</h1>
+
+<h3>¿Estás seguro que deseas eliminar este producto?</h3>
+
+<div>
+    <h4>@Model.Nombre</h4>
+    <p>Información: @Model.Informacion</p>
+    <p>Precio: @Model.Precio</p>
+    <p>Fecha de Ingreso: @Model.FechaIngreso.ToShortDateString()</p>
+    <p>Fecha de Expiración: @Model.FechaExpiracion.ToShortDateString()</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
